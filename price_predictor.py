@@ -42,7 +42,7 @@ def price_prediction():
 
     }
 
-    key=
+    key="lUtIJdzuVMCIcxh4DlGneYNZHIBb7sVS"
     url=construct_url(car_info, key)
     prediction=get_car_prediction(car_info, key, url)
 
